@@ -21,7 +21,7 @@ A LinkedIn member’s profile page, which emphasizes their skills, employment hi
 LinkedIn is very similar to Facebook in terms of its layout and design. These features are more specialized because they cater to professionals, but in general, if you know how to use Facebook or any other similar social network, LinkedIn is somewhat comparable.
 
 <p align="center">
-    <img src="/media-files/linkedin.png" alt="LinkedIn">
+    <img src="https://github.com/MaheswariPinneti/linkedin/blob/main/linkedin.png" alt="LinkedIn">
     <br />
     LinkedIn
 </p>
